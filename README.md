@@ -23,13 +23,13 @@ Contribuindo para o projeto open-source da Digital Innovation One.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrunoAmericano&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrunoAmericano&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=catppuccin_latte)
 
 ## Tecnologia em Ação 💡: Contribuições e Projetos de Desenvolvimento 🚀
 
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoAmericano&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/BrunoAmericano/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=catppuccin_latte)](https://github.com/BrunoAmericano/dio-lab-open-source)
 
 ## 📣 # Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
