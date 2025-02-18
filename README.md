@@ -41,7 +41,7 @@ Contribuindo para o projeto open-source da Digital Innovation One.
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 ## 📌 Contribuições
-Estou colaborando no projeto "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One. 
+Estou colaborando no projeto "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.
 
 ## 🌐 Conecte-se Comigo
 
@@ -54,3 +54,7 @@ Estou colaborando no projeto "Contribuindo em um Projeto Open Source no GitHub" 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoAmericano)
 
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:bruno.bj684@gmail.com)
+
+## 🐱 Meu Octocat
+
+![Octocat personalizado](https://github.com/BrunoAmericano/BrunoAmericano/blob/main/octocat-1739886537219.png?raw=true)
