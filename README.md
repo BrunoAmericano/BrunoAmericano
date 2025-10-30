@@ -1,60 +1,66 @@
-# Olá, eu sou o Bruno José Americano Prado de Jesus! 👋
+# Bruno José Americano Prado de Jesus
 
-💡 **Sobre mim** 💡
+**Técnico em Informática | Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Sou um profissional apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Atualmente, sou estudante na área de TI, onde desenvolvo habilidades em suporte técnico, redes de computadores e análise de dados. Tenho experiência com Python, Java Back-End e ferramentas para desenvolvimento de sistemas, além de estar sempre aprimorando meus conhecimentos em infraestrutura e suporte de TI.
+---
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera e estou expandindo meu conhecimento por meio de cursos especializados. Meu foco é crescer na área de tecnologia, buscando soluções inovadoras e contribuindo para o sucesso das empresas em que atuo.
+## Sobre Mim
 
-🚀 **Sempre em evolução, sempre aprendendo!**
+Sou um profissional apaixonado por tecnologia, com foco em desenvolvimento Back-End, infraestrutura e suporte técnico.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera** e busco aprimorar continuamente minhas habilidades por meio de projetos práticos e estudos especializados.
 
-## 📚 Habilidades
-- **TI | Suporte Técnico**
-- **Redes de Computadores**
-- **Análise de Dados**
-- **Java | Python | SQL**
-- **APIs | Git**
+Tenho experiência em **Python, Java, SQL e análise de dados**, além de sólida base em **redes de computadores e manutenção de sistemas**.  
+Meu objetivo é aplicar soluções técnicas eficientes, com visão analítica e compromisso com a qualidade.
 
-## 💻 Projetos
-Aqui estão alguns dos projetos que estou colaborando:
+> “Profissionalismo é transformar complexidade em clareza.”
 
-### 1. [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
-Contribuindo para o projeto open-source da Digital Innovation One.
+---
 
-## 📊 Estatísticas do GitHub
+## Habilidades Técnicas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrunoAmericano&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=catppuccin_latte)
+| Área | Competências |
+|------|---------------|
+| **Desenvolvimento** | Java • Python • SQL • APIs REST • Git/GitHub |
+| **Infraestrutura** | Suporte Técnico • Redes • Troubleshooting • Segurança |
+| **Análise de Dados** | Power BI • Excel Avançado • Modelagem de Dados |
+| **Metodologias** | Scrum • Kanban • Desenvolvimento Ágil |
 
-## Tecnologia em Ação 💡: Contribuições e Projetos de Desenvolvimento 🚀
+---
 
+## Projetos
 
+### [Ctrl+Alt+Delirium](https://github.com/BrunoAmericano/CtrlAltDelirium)
+Jogo 2D em pixel art desenvolvido em Java. O protagonista é sugado para dentro do computador e precisa eliminar bugs para retornar à realidade.  
+**Stack:** Java | Pixel Art | Design Retrô | Open Source
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=catppuccin_latte)](https://github.com/BrunoAmericano/dio-lab-open-source)
+### [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
+Contribuição em projeto open source da **Digital Innovation One**, com foco em colaboração, versionamento e boas práticas de desenvolvimento.
 
-## 📣 # Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## Estatísticas do GitHub
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAmericano&show_icons=true&theme=transparent&hide_title=true&hide=prs&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAmericano&layout=compact&theme=transparent)
 
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+---
 
-## 📌 Contribuições
-Estou colaborando no projeto "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.
+## Tecnologias e Ferramentas
 
-## 🌐 Conecte-se Comigo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-prado-/)
+---
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531975286312)
+## Conecte-se
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno.prado._/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-prado-/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoAmericano)
+[![Email](https://img.shields.io/badge/Email-bruno.bj684@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bruno.bj684@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoAmericano)
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:bruno.bj684@gmail.com)
-
-## 🐱 Meu Octocat
-
-![Octocat personalizado](https://github.com/BrunoAmericano/BrunoAmericano/blob/main/octocat-1739886537219.png?raw=true)
+### “Sempre em evolução. Sempre aprendendo.”
