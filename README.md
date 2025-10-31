@@ -29,9 +29,15 @@ Meu objetivo é aplicar soluções técnicas eficientes, com visão analítica e
 
 ## Projetos
 
-### [Ctrl+Alt+Delirium](https://github.com/BrunoAmericano/CtrlAltDelirium)
-Jogo 2D em pixel art desenvolvido em Java. O protagonista é sugado para dentro do computador e precisa eliminar bugs para retornar à realidade.  
-**Stack:** Java | Pixel Art | Design Retrô | Open Source
+### [Portfólio de Desenvolvimento Web – Cadastro de Usuário]([https://github.com/BrunoAmericano/CtrlAltDelirium](https://github.com/BrunoAmericano/ProjetoSpringMVC))
+Este repositório apresenta o portfólio de atividades práticas realizadas durante a disciplina Framework para Desenvolvimento de Software, abordando desenvolvimento de aplicações web utilizando:
+
+- Java + Spring MVC
+- HTML5, CSS3
+- JavaScript (puro e JQuery)
+- Framework Bootstrap 4/5
+  
+O objetivo principal foi criar um formulário de cadastro de usuários com validação de campos, preenchimento automático de endereço via API ViaCEP, integração Front-end e Back-end, e estilização profissional com Bootstrap.
 
 ### [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 Contribuição em projeto open source da **Digital Innovation One**, com foco em colaboração, versionamento e boas práticas de desenvolvimento.
